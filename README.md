@@ -12,7 +12,7 @@
 
 <div align="center"><h4>👨‍💻 A software developer from Sri Lanka. 🚀</h4></div>
 
-- 🌱 I’m currently learning React and Laravel  
+- 🌱 I’m currently learning MongoDB, Express js, React and  Node js.
         
         
 - 👼Also, I am a undergraduate IT student at University of Colombo 
