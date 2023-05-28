@@ -231,5 +231,5 @@
 <p align="center">
 <a href="https://twitter.com/@sangeeth_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sangeeth_jay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sangeeth-jayawarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sangeeth-jayawarna" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/sangeeth_jay_99?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sangeeth_jay_99?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
+<a href="https://instagram.com/sangeeth_jay_99?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sangeeth_jay_99?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
 </p>
