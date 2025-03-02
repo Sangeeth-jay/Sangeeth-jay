@@ -16,16 +16,16 @@
 
 <div align="center"><h4>👨‍💻 A software developer based on Sri Lanka. 🚀</h4></div>
 
-- 🌱 I’m currently learning MongoDB, Express js, React and  Node js.
-        
-        
-- 👼Also, I am a undergraduate IT student at University of Colombo 
+- 🌱 **Currently expanding my skills** in **TypeScript**, **AWS**, and **Advanced React** (exploring Next.js, React Native).  
 
+- 👨‍💻 Passionate about **UI/UX Design** and always learning to create better, more intuitive user experiences.  
 
-- 📫 How to reach me **sangeethj74@gmail.com**
+- 🎓 **Undergraduate IT student** at the **University of Colombo**, specializing in information technology.  
 
+- 📫 Feel free to reach out at **sangeethj74@gmail.com**.  
 
-- ⚡ Fun fact: blah blah blah 
+- ⚡ **Fun fact**: I'm a firm believer in "It works on my computer"—until the demo, of course! 😅 Debugging is my cardio.  
+
 
 <div align="center">
   <img
